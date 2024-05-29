@@ -1,0 +1,8 @@
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\bin\Debug\POOI_Semana02.exe.config
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\bin\Debug\POOI_Semana02.exe
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\bin\Debug\POOI_Semana02.pdb
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\obj\Debug\POOI_Semana02.csproj.AssemblyReference.cache
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\obj\Debug\POOI_Semana02.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\obj\Debug\POOI_Semana02.csproj.CoreCompileInputs.cache
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\obj\Debug\POOI_Semana02.exe
+D:\Documentos\practica1\POOI_Semana02\POOI_Semana02\obj\Debug\POOI_Semana02.pdb
